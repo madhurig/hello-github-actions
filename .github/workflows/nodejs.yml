@@ -13,4 +13,4 @@ jobs:
 
     steps:
     - name: Erlang version
-      run: erlang -version
+      run: erl -version
